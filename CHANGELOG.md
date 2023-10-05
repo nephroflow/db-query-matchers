@@ -1,3 +1,7 @@
+## 0.12.0
+
+- Relax dependencies for compatibility with Rails 7.1
+
 ## 0.11.0
 
 - Relax dependencies for compatibility with Rails 7.0
