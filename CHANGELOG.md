@@ -1,3 +1,7 @@
+## 0.13.0
+
+- Relax dependencies for compatibility with Rails 7.2
+
 ## 0.12.0
 
 - Drop support for EOL software (Ruby 2.x, Rails 6.0)
